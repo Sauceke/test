@@ -1,6 +1,6 @@
 markdown: GFM
-remote_theme: mmistakes/jekyll-theme-basically-basic
-jekyll-theme-basically-basic:
+remote_theme: abhinavs/moonwalk
+moonwalk:
   skin: dark
 plugins:
 - jekyll-remote-theme
