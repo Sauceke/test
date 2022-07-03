@@ -1,4 +1,6 @@
 markdown: GFM
-theme: jekyll-theme-merlot
-jekyll-theme-merlot:
+remote_theme: jekyll/minima
+minima:
   skin: dark
+plugins:
+- jekyll-remote-theme
