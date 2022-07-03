@@ -1,6 +1,6 @@
 markdown: GFM
-remote_theme: daattali/beautiful-jekyll
-beautiful-jekyll:
+remote_theme: mmistakes/jekyll-theme-basically-basic
+jekyll-theme-basically-basic:
   skin: dark
 plugins:
 - jekyll-remote-theme
