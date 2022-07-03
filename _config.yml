@@ -1,4 +1,6 @@
 markdown: GFM
-remote_theme: SupunKavinda/jekyll-theme-leaf
+remote_theme: zivhub/monophase
+monophase:
+  skin: dark
 plugins:
 - jekyll-remote-theme
