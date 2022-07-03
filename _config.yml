@@ -1,4 +1,4 @@
 markdown: GFM
-theme: merlot
+theme: jekyll-theme-merlot
 merlot:
   skin: dark
