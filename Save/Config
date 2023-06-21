@@ -2,8 +2,8 @@
 showCamTgt:True
 clickCamTgt:True
 showWatcher:True
-showMale:1
-showFemale:True
+showMale:0
+showFemale:False
 showMap:False
 hideObstacle:True
 showFPS:True
