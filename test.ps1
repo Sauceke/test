@@ -4,7 +4,7 @@ cd ./scs/*/
 curl -L https://github.com/BepInEx/BepInEx/releases/download/v5.4.18/BepInEx_x86_5.4.18.0.zip -o BepInEx32.zip
 Expand-Archive -Path BepInEx32.zip -DestinationPath .
 cp -Force -Recurse ../../BepInEx .
-cp -Force -Recurse ../../Save .
+cp -Force -Recurse ../../UserData .
 & ./Trial.exe
 Start-Sleep -Seconds 180
 cp ./shot.png ../../shot.png
