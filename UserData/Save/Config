@@ -2,7 +2,7 @@
 showCamTgt:True
 clickCamTgt:True
 showWatcher:True
-showMale:0
+showMale:1
 showFemale:False
 showMap:False
 hideObstacle:True
