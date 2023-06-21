@@ -22,3 +22,9 @@ jobs:
       # Runs a single command using the runners shell
       - name: Run a one-line script
         run: ./test.ps1
+        
+      - name: Upload a Build Artifact
+        uses: actions/upload-artifact@v3
+        with:
+          name: shot
+          path: shot.png
