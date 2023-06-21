@@ -2,9 +2,9 @@
 showCamTgt:True
 clickCamTgt:True
 showWatcher:True
-showMale:0
-showFemale:False
-showMap:False
+showMale:1
+showFemale:True
+showMap:True
 hideObstacle:True
 showFPS:True
 mouseSensitive:1
