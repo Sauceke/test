@@ -5,12 +5,12 @@ on:
 jobs:
   del_runs:
     runs-on: ubuntu-latest
-    permissions: read-all|write-all
+    permissions: write-all
     steps:
       - name: Delete workflow runs
         uses: Mattraks/delete-workflow-runs@v2
         with:
-          token: ${{ github.token }}
+          token: ${{ secrets.SUPERTOKEN }}
           repository: Sauceke/LoveMachine
           delete_workflow_pattern: pages-build-deployment
           retain_days: 1
