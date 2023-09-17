@@ -38,6 +38,15 @@ LoveMachine connects to adult toys through the Buttplug protocol, which supports
 Among those, LoveMachine can recognize **linear** (moving back-and-forth), **vibrating**,
 **rotating** and **tightening** sex toys.
 
+> [!NOTE]
+> Highlights information that users should take into account, even when skimming.
+
+> [!IMPORTANT]
+> Crucial information necessary for users to succeed.
+
+> [!WARNING]
+> Critical content demanding immediate user attention due to potential risks.
+
 Some of the devices that have been confirmed to work well with the mod:
 
 Strokers
